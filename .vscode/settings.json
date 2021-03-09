@@ -1,0 +1,7 @@
+{
+  "docthis.includeTypes": false,
+  "docthis.returnsTag": true,
+  "docthis.includeMemberOfOnClassMembers": false,
+  "docthis.includeMemberOfOnInterfaceMembers": false,
+  "docthis.includeDescriptionTag": false
+}
